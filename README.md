@@ -57,14 +57,9 @@
 ---
 
 ## 🔗 Contact
-<p>
-  <a href="mailto:yd10407@naver.com">
-    [<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>]
-  </a>
-  <a href="https://github.com/yumiKKKK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+
+[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>](mailto:yd10407@naver.com)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/yumiKKKK)
 
 ---
 
