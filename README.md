@@ -10,9 +10,8 @@
 - 해커톤·인턴·프로젝트를 거치며 **기획 → 설계 → 구현**까지 전 과정을 경험했습니다.  
 - 수학 전공 기반의 **논리적 사고력**과 문제를 다시 발생하지 않게 해결하는 **구조적 접근**을 강점으로 합니다.  
 - 새로운 기술과 문제를 두려워하지 않는 **성장 중심 태도**를 가지고 있습니다.  
-- Android, 백엔드, AI 모델링 등 다양한 분야를 경험하며 **전체 흐름을 이해하는 개발자**로 성장해왔습니다.  
-:contentReference[oaicite:0]{index=0}
-
+- Android, 백엔드, AI 모델링 등 다양한 분야를 경험하며 **전체 흐름을 이해하는 개발자**로 성장해왔습니다.
+  
 ---
 
 ## 🛠 Tech Stack
@@ -27,7 +26,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
-### **Mobile (Android · Wear OS)**
+### **Mobile (Android)**
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/>
@@ -51,8 +50,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yumiKKKK&show_icons=true&theme=default"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiKKKK&layout=compact"/>
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yumiKKKK&show_icons=true&theme=default"/>
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yumiKKKK&layout=compact"/>
 </p>
 
 ---
@@ -60,7 +59,7 @@
 ## 🔗 Contact
 <p>
   <a href="mailto:yd10407@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
   <a href="https://github.com/yumiKKKK">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
